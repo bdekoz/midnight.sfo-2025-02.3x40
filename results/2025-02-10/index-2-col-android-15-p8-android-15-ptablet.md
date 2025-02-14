@@ -1,10 +1,3 @@
-## About
-- [progressive metrics](/docs/about_1.md)
-- [key to glyphs](/docs/about_2.md)
-- [test and device metadata](/docs/results_metadata.md)
-- [notes](/docs/observations_notes.md)
-
-
 ## Results
 <table>
 <thead>
@@ -217,7 +210,3 @@
 </tr>
 </tbody>
 </table>
-
-
-## Data
-* [json](https://github.com/bdekoz/midnight.sfo-2025-02.3x40/tree/main/results)
