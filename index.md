@@ -9,9 +9,9 @@
 <table>
 <thead>
 <tr>
-<th>URL</th>
-<th>Pixel 8</th>
-<th>Pixel Tablet</th>
+<th align="left">URL</th>
+<th align="left">Pixel 8</th>
+<th align="left">Pixel Tablet</th>
 </tr>
 </thead>
 <tbody>
