@@ -10,8 +10,8 @@
 <thead>
 <tr>
 <th>URL</th>
-<th>android-15-p8</th>
-<th>android-15-ptablet</th>
+<th>Pixel 8</th>
+<th>Pixel Tablet</th>
 </tr>
 </thead>
 <tbody>
