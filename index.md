@@ -1,7 +1,9 @@
 ## About
 - [progressive metrics](/docs/about_1.md)
 - [key to glyphs](/docs/about_2.md)
-- Android 15, p8, 8 iter
+- [test and device metadata](/docs/results_metadata.md)
+- [notes](/docs/observations_notes.md)
+
 
 ## Results
 - [4usted](/pages/2025-02-09-android-15-p8-4usted-aggregate.svg)
